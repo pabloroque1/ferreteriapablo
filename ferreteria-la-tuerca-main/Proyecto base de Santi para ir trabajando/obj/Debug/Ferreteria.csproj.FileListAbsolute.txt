@@ -1,0 +1,37 @@
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.CargaSistema.resources
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.LoginForm.resources
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.Properties.Resources.resources
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal.resources
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.CopyComplete
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\obj\Debug\Ferreteria.PerfilForm.resources
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\bin\Debug\System.ValueTuple.dll
+C:\Users\santi\Desktop\Pruebas Ferreteria\Ferreteria\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.CargaSistema.resources
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.Categoria.resources
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.LoginForm.resources
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.PerfilForm.resources
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.Principal.resources
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.Properties.Resources.resources
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.exe
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\bin\Debug\Ferreteria.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\bin\Debug\Ferreteria.exe
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\bin\Debug\Ferreteria.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.csproj.CopyComplete
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.Marca.resources
+C:\Users\usuario\Desktop\Nueva carpeta\TP_Integrador\ferreteria-la-tuerca-main\Proyecto base de Santi para ir trabajando\obj\Debug\Ferreteria.Articulo.resources
